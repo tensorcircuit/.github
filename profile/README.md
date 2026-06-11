@@ -31,12 +31,12 @@ More than just a simulator, TensorCircuit-NG is built to be the foundational inf
 
 ---
 
-## 🌌 Core Ecosystem & Authorship
+## 🌌 Core Ecosystem
 
 ### 🚀 [TensorCircuit-NG](https://github.com/tensorcircuit/tensorcircuit-ng)
 *The next-generation open-source high-performance quantum software framework.*
 
-* 🧬 **Software Authors**: Created by [Shi-Xin Zhang](https://sxzgroup.github.io/), maintained by [Shi-Xin Zhang](https://sxzgroup.github.io/) and [Yu-Qin Chen](https://cyqgroup.github.io/).
+* 🧬 **Authors**: Created by [Shi-Xin Zhang](https://sxzgroup.github.io/), maintained by [Shi-Xin Zhang](https://sxzgroup.github.io/) and [Yu-Qin Chen](https://cyqgroup.github.io/).
 * 📄 **Publications**:
   * [*TensorCircuit: a Quantum Software Framework for the NISQ Era*](https://quantum-journal.org/papers/q-2023-02-02-912/) (Quantum 2023)
   * [*TensorCircuit-NG: A Universal, Composable, and Scalable Platform for Quantum Computing and Quantum Simulation*](https://arxiv.org/abs/2602.14167) (arXiv 2026)
@@ -44,7 +44,7 @@ More than just a simulator, TensorCircuit-NG is built to be the foundational inf
 ### 🧪 [TenCirChem-NG](https://github.com/tensorcircuit/TenCirChem-NG)
 *An efficient and versatile quantum computation package built on top of TensorCircuit-NG.*
 
-* 🧬 **Software Author**: Developed and maintained by [Weitang Li](https://weitangligroup.com/).
+* 🧬 **Author**: Developed and maintained by [Weitang Li](https://weitangligroup.com/).
 * 📄 **Publication**:
   * [*TenCirChem: An Efficient and Versatile Quantum Computation Package for Molecular Properties*](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00319) (JCTC 2023)
 
