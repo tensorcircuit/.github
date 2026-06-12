@@ -49,15 +49,15 @@ More than just a simulator, TensorCircuit-NG is built to be the foundational inf
   * [*TenCirChem: An Efficient and Versatile Quantum Computation Package for Molecular Properties*](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00319) (JCTC 2023)
 
 ### 📚 Education & Research Extensions
-* 🛠️ **[sxzgroup Projects](https://github.com/sxzgroup)**: Additional research tools, training materials, lecture slides, and domain-specific applications maintained by the SXZ Group.
+* 🛠️ **[sxzgroup Projects](https://github.com/sxzgroup)**: Additional research tools, training materials, and research applications.
 
 ---
 
 ## 🛡️ Key Platform Highlights
 
 * **Auto-Grad & JIT Compatible**: Native compilation on top of JAX, TensorFlow, and PyTorch for seamlessly combining quantum circuits with machine learning pipelines.
-* **Extreme Performance**: 10 to $10^6$ times faster simulation compared to conventional simulators; supports large-scale simulations up to 600+ qubits (1D VQE).
-* **QPU & HPC Native**: Multi-GPU and multi-node distributed execution; supports real QPU access and advanced error mitigation (ZNE, DD, RC).
+* **Extreme Performance**: 10 to 10^6 times faster simulation compared to conventional simulators; supports large-scale simulations up to 600+ qubits VQE.
+* **QPU & HPC Native**: Multi-GPU and multi-node distributed execution; supports real QPU access and advanced error mitigation.
 * **AI-Agent Ready**: Built-in workflows and standard rules enabling AI coding assistants to write, optimize, and review quantum code autonomously.
 
 ---
@@ -66,10 +66,6 @@ More than just a simulator, TensorCircuit-NG is built to be the foundational inf
 
 Due to increasing interest from industry, startups, investment organizations, and research institutions, external collaborations, consulting, and advisory support are managed through a structured engagement process. 
 
-Depending on the scope and objectives, collaborations may take the form of academic exchanges, technical consultations, project support, or long-term advisory engagements in the following areas:
-
-* **Quantum Computing & Software**: Quantum and quantum-inspired algorithms, quantum AI, NISQ devices, quantum noise, simulation, error mitigation, and design/deployment of scientific software.
-* **HPC, GPU & Scientific Computing**: Vectorized parallel computing, GPU optimization, large-scale simulation, distributed training, automatic differentiation, and compiler integration.
-* **AI for Science**: Interplay between machine learning and quantum physics, chemistry, or engineering.
+Depending on the scope and objectives, collaborations may take the form of academic exchanges, technical consultations, project support, or long-term advisory engagements.
 
 👉 For detailed engagement options and contact information, please refer to the [Collaboration & Advisory Guidelines](https://sxzgroup.github.io/advisory/) or check the [Technical Support FAQ](https://tensorcircuit-ng.readthedocs.io/en/latest/faq.html#how-can-commercial-partners-or-enterprises-obtain-custom-support-or-technical-consulting).
