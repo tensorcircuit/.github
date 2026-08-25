@@ -48,6 +48,13 @@ More than just a simulator, TensorCircuit-NG is built to be the foundational inf
 * 📄 **Publication**:
   * [*TenCirChem: An Efficient and Versatile Quantum Computation Package for Molecular Properties*](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00319) (JCTC 2023)
 
+### 🧮 [TenCirPauli](https://github.com/tensorcircuit/TenCirPauli)
+*A Rust-native Pauli algebra and structured quantum execution toolkit for TensorCircuit-NG.*
+
+* 🧩 **Capabilities**: Pauli algebra, Hamiltonian construction, measurement grouping, symmetry reduction, stabilizer-code and error-correction analysis, structured operators, classical-shadow analysis, and observable propagation.
+* ⚡ **Integration**: Native CPU execution with TensorCircuit-NG and JAX-compatible backend plans.
+* 📚 **Documentation**: Read the [TenCirPauli documentation](https://tensorcircuit.github.io/TenCirPauli/).
+
 ### 📚 Education & Research Extensions
 * 🛠️ **[sxzgroup Projects](https://github.com/sxzgroup)**: Additional research tools, training materials, and research applications.
 
