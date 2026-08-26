@@ -51,8 +51,8 @@ More than just a simulator, TensorCircuit-NG is built to be the foundational inf
 ### 🧮 [TenCirPauli](https://github.com/tensorcircuit/TenCirPauli)
 *A Rust-native Pauli algebra and structured quantum execution toolkit for TensorCircuit-NG.*
 
+* 🧬 **Authors**: Developed and maintained by [Shi-Xin Zhang](https://sxzgroup.github.io/).
 * 🧩 **Capabilities**: Pauli algebra, Hamiltonian construction, measurement grouping, symmetry reduction, stabilizer-code and error-correction analysis, structured operators, classical-shadow analysis, and observable propagation.
-* ⚡ **Integration**: Native CPU execution with TensorCircuit-NG and JAX-compatible backend plans.
 * 📚 **Documentation**: Read the [TenCirPauli documentation](https://tensorcircuit.github.io/TenCirPauli/).
 
 ### 📚 Education & Research Extensions
@@ -63,7 +63,7 @@ More than just a simulator, TensorCircuit-NG is built to be the foundational inf
 ## 🛡️ Key Platform Highlights
 
 * **Auto-Grad & JIT Compatible**: Native compilation on top of JAX, TensorFlow, and PyTorch for seamlessly combining quantum circuits with machine learning pipelines.
-* **Extreme Performance**: 10 to 10^6 times faster simulation compared to conventional simulators; supports large-scale simulations up to 600+ qubits VQE.
+* **Extreme Performance**: 10 to 10^6 times faster simulation compared to conventional simulators; supports large-scale simulations up to 1000+ qubits VQE.
 * **QPU & HPC Native**: Multi-GPU and multi-node distributed execution; supports real QPU access and advanced error mitigation.
 * **AI-Agent Ready**: Built-in workflows and standard rules enabling AI coding assistants to write, optimize, and review quantum code autonomously.
 
